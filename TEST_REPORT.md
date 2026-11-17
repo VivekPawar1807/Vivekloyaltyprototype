@@ -2,9 +2,10 @@
 
 ## Executed checks
 
-- JavaScript syntax check: pending after final build.
-- Deterministic smoke test: pending after final build.
-- Manual browser walkthrough: pending after final build.
+- JavaScript syntax check: passed with the bundled Node runtime.
+- Deterministic smoke test: passed, 10 assertions covering base points, multipliers, capping, tier transition, validation gating, and the base commercial arithmetic.
+- Manual browser walkthrough: passed for the primary route: sourced field confirmation → cited AskOnce decision → proposed RuleCraft edit → RuleGuard scan → DryRun trace and 9/9 coverage → stakeholder role gate → approval lock.
+- Desktop visual inspection: passed for the Business Impact view.
 
 ## Coverage in the app
 
