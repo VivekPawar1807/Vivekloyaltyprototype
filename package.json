@@ -1,0 +1,11 @@
+{
+  "name": "gravty-launchpad-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static interactive GRAVTY LaunchPad prototype",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "check": "node --check app.js",
+    "test": "node tests/smoke.mjs"
+  }
+}
